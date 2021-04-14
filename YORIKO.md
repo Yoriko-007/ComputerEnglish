@@ -1,7 +1,7 @@
 # 这里是YORIKO
 [返回README.md](/README.md)
 
-<img src="./ab.jpg" width="50%">
+<img src="./ab.png" width="50%">
 
 
 ## h2大小的header
