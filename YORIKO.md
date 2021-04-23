@@ -2,7 +2,7 @@
 [返回README.md](/README.md)
 
 
-![本地的图片](/ab.png)
+![本地的图片](https://img2.baidu.com/it/u=1286206569,4084373574&fm=26&fmt=auto&gp=0.jpg)
 
 
 ## h2大小的header
