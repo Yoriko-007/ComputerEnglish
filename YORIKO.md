@@ -48,7 +48,7 @@ public class HelloWorld {
 
 ~~删除线~~
 
-< center>居中< /center>
+<center>居中</center>
 
 
 
