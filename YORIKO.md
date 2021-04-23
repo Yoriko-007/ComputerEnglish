@@ -2,7 +2,7 @@
 [返回README.md](/README.md)
 
 
-![本地的图片](../ab.png)
+![本地的图片](ab.jpg)
 
 
 ## h2大小的header
